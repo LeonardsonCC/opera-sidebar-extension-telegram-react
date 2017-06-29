@@ -1,0 +1,34 @@
+{
+  "default_locale": "en",
+  "description": "This is a Opera Sidebar Extension Template",
+  "background": {
+    "scripts": []
+  },
+  "developer": {
+    "name": "LaRuaNa"
+  },
+  "icons": {
+    "128": "icons/128.png",
+    "19": "icons/19.png",
+    "38": "icons/38.png",
+    "48": "icons/48.png"
+  },
+  "manifest_version": 2,
+  "name": "Sidebar Extension Template",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "sidebar_action": {
+    "default_icon": {
+      "19": "icons/19.png",
+      "38": "icons/38.png"
+    },
+    "default_panel": "sidebar.html",
+    "default_title": "Sidebar Extension Template"
+  },
+  "version": "1.0.0",
+  "update_url": "https://extension-updates.opera.com/api/omaha/update/"
+
+}

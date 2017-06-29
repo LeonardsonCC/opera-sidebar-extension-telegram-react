@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "description": "Extension name.",
+    "message": "Sidebar Extension name"
+  },
+  "extensionDescription": {
+    "description": "Description of extension functionality.",
+    "message": "Template for Sidebar Extensions."
+  },
+  "extensionPanelURL": {
+    "description": "Extension URL.",
+    "message": "http://example.com/"
+  }
+}
