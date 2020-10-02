@@ -1,11 +1,11 @@
 {
   "default_locale": "en",
-  "description": "This is a Opera Sidebar Extension Template",
+  "description": "An Opera extension to use web Telegram React version",
   "background": {
     "scripts": []
   },
   "developer": {
-    "name": "LaRuaNa"
+    "name": "LeonardsonCC"
   },
   "icons": {
     "128": "icons/128.png",
@@ -14,21 +14,17 @@
     "48": "icons/48.png"
   },
   "manifest_version": 2,
-  "name": "Sidebar Extension Template",
-  "permissions": [
-    "webRequest",
-    "webRequestBlocking",
-    "<all_urls>"
-  ],
+  "name": "Telegram React Sidebar",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
   "sidebar_action": {
     "default_icon": {
       "19": "icons/19.png",
       "38": "icons/38.png"
     },
     "default_panel": "sidebar.html",
-    "default_title": "Sidebar Extension Template"
+    "default_title": "Telegram React"
   },
   "version": "1.0.0",
-  "update_url": "https://extension-updates.opera.com/api/omaha/update/"
-
+  "update_url": "https://github.com/LeonardsonCC/opera-sidebar-extension-telegram-react"
 }
+

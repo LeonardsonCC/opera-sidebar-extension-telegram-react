@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "description": "Extension name.",
-    "message": "Sidebar Extension name"
+    "description": "Telegram React.",
+    "message": "Telegram React sidebar extension."
   },
   "extensionDescription": {
-    "description": "Description of extension functionality.",
-    "message": "Template for Sidebar Extensions."
+    "description": "Gives a sidebar version on Telegram React",
+    "message": "Sidebar for Telegram React"
   },
   "extensionPanelURL": {
-    "description": "Extension URL.",
-    "message": "http://example.com/"
+    "description": "https://github.com/LeonardsonCC/opera-sidebar-extension-telegram-react",
+    "message": "https://github.com/LeonardsonCC/opera-sidebar-extension-telegram-react"
   }
 }
