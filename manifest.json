@@ -15,7 +15,7 @@
   },
   "manifest_version": 2,
   "name": "Telegram React Sidebar",
-  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "permissions": ["tabs", "activeTabs", "<all_urls>"],
   "sidebar_action": {
     "default_icon": {
       "19": "icons/19.png",
@@ -24,7 +24,6 @@
     "default_panel": "sidebar.html",
     "default_title": "Telegram React"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "update_url": "https://github.com/LeonardsonCC/opera-sidebar-extension-telegram-react"
 }
-
